@@ -14,6 +14,9 @@ Data Persistence: Contacts are stored securely in a database, ensuring that user
 Technologies Used:-
 
 Django: A high-level Python web framework used for rapid development and clean, pragmatic design.
+
 HTML: Used for structuring the web pages and displaying content.
+
 CSS: Employed for styling and enhancing the visual appeal of the application.
+
 Database: Utilize a database (db.sqlite3) to persistently store contact information.
